@@ -2,10 +2,10 @@
       text-align: center;
       background: url("images/banner.jpg");
       background-size: cover;
-      color: white;
+      color: blue;
     }
     .nav {
-      color: white;
+      color: red;
     }
     h1 {
       font-size: 70px;
